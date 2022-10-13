@@ -8,9 +8,6 @@ Realizamos una SPA.
 
 Links:
 
-[Acá se puede ver el tablero de Trello con el que trabajamos](https://trello.com/b/3g5jnbhr/proyecto-final-react)
-
-
 [Aca se puede ver la consigna en PDF](https://github.com/eugenia1984/numen-react/blob/main/proyecto_react.pdf), que es esta:
 
 El proyecto consistirá en realizar una aplicación web en React, respetando el diseño entregado en Figma, los requerimientos técnicos y la funcionalidad deseada.
@@ -80,7 +77,6 @@ El proyecto consistirá en realizar una aplicación web en React, respetando el 
 
 ## Integrantes:
 
-[María Eugenia Costa](https://github.com/eugenia198)
 
 [Ekelhtml](https://github.com/Ekelhtml)
 
